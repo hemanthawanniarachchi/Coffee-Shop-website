@@ -1,0 +1,16 @@
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Espresso Macchiato
+</title>
+</head>
+<body>
+	
+	center><h1>Espresso Macchiato</h1></center>
+	<center><img src="Espresso Macchiato.jpeg" alt="Espresso Macchiato" width="400" height="300"></center>
+	<center><p style="font-size:35px;">Caffè macchiato, sometimes called espresso macchiato, is an espresso coffee drink with a small amount of milk, usually foamed. In Italian, macchiato means "stained" or "spotted" so the literal translation of caffè macchiato is "stained” or “marked coffee.”</p></center>
+
+</body>
+</html>

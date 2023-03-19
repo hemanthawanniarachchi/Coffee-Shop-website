@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Dream Cafe</title>
+<style type="text/css">
+    figure{
+      display: inline-block;
+    }
+  </style>
+</head>
+<body style="background-image: url(Back.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover; ">
+       
+      <div style=" text-align: center; ">
+     <span style="font-size:50px;" style ="color:Red;"><b>Dream Cafe</b></span><br>
+     <span style=" font-style: italic; font-size: 35px;color: blue;">Welcome to the Shop...</span>
+     </div>
+   <br>
+   
+    <a href="Espresso.html" target="blank"><figure><img src="Espresso.jpeg" alt="Espresso"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px; "><b>Espresso :<br> Rs. 180</b> </figure></figcaption></a>
+    <a href="Cappuccino.html" target="blank"><figure><img src="Cappuccino.jpeg" alt="Cappuccino image"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Cappuccino :<br> Rs. 380</b></figure></figcaption></a>
+    <a href="Americano.html" target="blank"><figure><img src="Americano.jpeg" alt="Americano"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Americano :<br> Rs. 50</b></figure></figcaption></a>
+    <br>
+
+    <a href="Espresso Macchiato.html" target="blank"><figure><img src="Espresso Macchiato.jpeg" alt="Espresso Macchiato"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Espresso Macchiato : <br>Rs. 190</b></figure></figcaption></a>
+    <a href="Flat White.html" target="blank"><figure><img src="Flat White.jpeg" alt="Flat White"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Flat White : <br>Rs. 420</b></figure></figcaption></a>
+    <a href="Glasse.html" target="blank"><figure><img src="Glasse.jpeg" alt="Glasse"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Glasse : <br>Rs. 440</b></figure></figcaption></a>
+
+    <br>
+    <a href="Irish.html" target="blank"><figure><img src="Irish.jpeg" alt="Irish"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Irish : <br>Rs. 420</b></figure></figcaption></a>
+    <a href="Latte.html" target="blank"><figure><img src="Latte.jpeg" alt="Latte"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Latte :<br> Rs. 220</b></figure></figcaption></a>
+    <a href="Ristretto.html" target="blank"><figure><img src="Ristretto.jpeg" alt="Ristretto"  width="400px" height="200px" border="5px" ><figcaption style="color:White;  font-size: 25px;"><b>Ristretto : <br>Rs. 100</b></figure></figcaption></a>
+   
+  
+      <style>
+h1 {text-align: center;}
+</style> 
+
+
+<hr style="color:darkred;" >
+<div style="background-color: lightgreen; color:black;font-size: 15px;">
+<p><b>Address: 76/1 ,Jayasuriya street, Galle.</b></p>
+<a href="mailto:hnwanniarachchi98@gmail.com.com" >Send mails</a>
+<p><b>phone number : 0912673452</b></p>
+
+<p><b>For more Details : Dream Cafe</b> <a href="more.html" target="blank"><b>click here</b></a></p>
+</div>
+
+
+
+</body>
+</html>

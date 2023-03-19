@@ -1,0 +1,14 @@
+
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Ristretto</title>
+</head>
+<body>
+	<center><h1>Ristretto</h1></center>
+	<center><img src="Ristretto.jpeg" alt="Ristretto" width="400" height="300"></center>
+	<center><p style="font-size:35px;">Ristretto is a "short shot" of a more highly concentrated espresso coffee. It is made with the same amount of ground coffee, but extracted with a finer grind using half as much water. A normal short shot might look like a Ristretto, but in reality, would only be a weaker, more diluted, shot.</p></center>
+
+</body>
+</html>
